@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
 
-    "homepage": "https://github.com/ariezzap03/Final-project-CC14-aries.git",
+    "homepage": "https://ariezzap.github.io/Final-project-CC14-aries",
 
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
