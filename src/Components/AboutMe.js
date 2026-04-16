@@ -32,7 +32,7 @@ const AboutMe = () => {
           <p className="text-lg leading-relaxed text-gray-700">
             Greetings and welcome to my portfolio! I'm <strong className="text-black">Aries A. Zaparita</strong>, 
             with a passion of exploring diverse domains within the field of technology. 
-            While my academic journey has been multifaceted, my focus has recently shifted 
+            While my academic journey has been multifaced, my focus has recently shifted 
             towards the dynamic realms of frontend development and web designer. 
             
           </p>
