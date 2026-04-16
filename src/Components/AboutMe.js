@@ -23,7 +23,7 @@ const AboutMe = () => {
         {/* Avatar placeholder */}
         <div className="md:col-span-1 flex justify-center">
           <div className="w-48 h-48 rounded-2xl border-4 border-black shadow-[6px_6px_0px_0px_#000] overflow-hidden">
-          <img src="pfp.jpg" alt="Zaparita" className="w-full h-full object-cover" />
+          <img src="1776184371.618504" alt="Zaparita" className="w-full h-full object-cover" />
 </div>
         </div>
 
