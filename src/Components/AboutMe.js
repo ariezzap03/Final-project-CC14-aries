@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import profilePhoto from './1776184371.618504';
+import profilePhoto from './1776184371.618504.jpg';
 const AboutMe = () => {
   const [visible, setVisible] = useState(false);
 
