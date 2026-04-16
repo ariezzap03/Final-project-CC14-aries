@@ -1,11 +1,9 @@
 {
+  "homepage": "https://ariezzap.github.io/Final-project-CC14-aries",
   "name": "zaparita-final_project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-
-    "homepage": "https://ariezzap.github.io/Final-project-CC14",
-
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
